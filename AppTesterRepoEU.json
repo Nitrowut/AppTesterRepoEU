@@ -1,12 +1,12 @@
 {
-  "name": "Maahanmuuttajien Kauppa",
-  "subtitle": "Nitrowut - Modded IPA Files",
+  "name": "MamuStore",
+  "subtitle": "Nitrowut Modded IPA Files",
   "description": "This is source for Modded IPA Files. Made by Nitrowut",
   "website": "https://github.com/Nitrowut/AppTesterRepoEU",
   "apps": [
     {
-      "name": "Maahanmuuttajien Kauppa",
-      "subtitle": "Nitrowut - Modded IPA Files",
+      "name": "MamuStore",
+      "subtitle": "Nitrowut Modded IPA Files",
       "bundleIdentifier": "io.altstore.AltStore",
       "marketplaceID": "6478868316",
       "developerName": "Riley & Shane",
