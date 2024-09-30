@@ -70,11 +70,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
       "tintColor": "8A28F7",
       "category": "games",
-      "beta": true,
-      "patreon": {
-        "pledge": 3,
-        "benefit": "1186336"
-      }
+      "beta": false
     }
   ],
   "featuredApps": [
