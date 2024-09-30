@@ -1,0 +1,124 @@
+{
+  "name": "AltStore",
+  "subtitle": "A home for apps that push the boundaries of iOS.",
+  "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/how-to-use-altstore/sources",
+  "website": "https://altstore.io",
+  "patreonURL": "https://www.patreon.com/rileyshane",
+  "apps": [
+    {
+      "name": "AltStore",
+      "subtitle": "Sideloading for everyone.",
+      "bundleIdentifier": "io.altstore.AltStore",
+      "marketplaceID": "6478868316",
+      "developerName": "Riley & Shane",
+      "versions": [
+        {
+          "version": "2.1.2",
+          "buildVersion": "50",
+          "date": "2024-08-29T11:00:00-05:00",
+          "localizedDescription": "• Verifies downloaded app matches source\n• Fixed installing apps before adding source\n• Fixed tab bar disappearing on iOS 18\n• Fixed incorrect progress when installing multiple apps",
+          "downloadURL": "https://altstore.io/adps/altstore/2_1_2",
+          "size": 13442869,
+          "minOSVersion": "17.4"
+        }
+      ],
+      "localizedDescription": "AltStore PAL is an alternative app marketplace for everyone (in Europe).\n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as Clip, a real clipboard manager that can run in the background.",
+      "iconURL": "https://cdn.altstore.io/file/altstore/images/altstore/icon.png",
+      "tintColor": "018084",
+      "category": "utilities",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
+        "https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG",
+        "https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png",
+        "https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG",
+        "https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG",
+        "https://user-images.githubusercontent.com/705880/277757419-f8067301-61f3-4eae-bbd1-be1bf2a1c05c.PNG"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.developer.marketplace.app-installation"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "1048524688",
+      "developerName": "Riley Testut",
+      "subtitle": "Spotify MOD (Oldest)",
+      "versions": [
+        {
+          "version": "8.9.70",
+          "marketingVersion": "8.9.70",
+          "buildVersion": "200",
+          "date": "2024-09-16T12:00:00-05:00",
+          "localizedDescription": "• Injected with Eevee 4.9 and added IOS 18 Support",
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-09-2024/Spotify_8.9.70_Eevee_4.9_%40thisismanpreets_apptesters.org.ipa",
+          "size": 80512448,
+          "minOSVersion": "17.4"
+        }
+      ]
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "6448998370",
+      "developerName": "Riley Testut",
+      "subtitle": "Spotify MOD (Latest)",
+      "versions": [
+        {
+          "version": "8.9.76",
+          "marketingVersion": "8.9.76",
+          "buildVersion": "210",
+          "date": "2024-09-04T12:00:00-05:00",
+          "localizedDescription": "• Injected with Eevee 5.1 and added IOS 18 Support",
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-09-2024/Spotify_8.9.76_Eevee_5.1_%40thisismanpreets_apptesters.org.ipa",
+          "size": 85008841,
+          "minOSVersion": "17.4"
+        }
+      ]
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "6478879891",
+      "subtitle": "Spotify MOD",
+      "developerName": "Riley Testut",
+      "versions": [
+        {
+          "version": "8.9.74",
+          "buildVersion": "205",
+          "date": "2024-04-12T17:00:00-00:00",
+          "localizedDescription": "• Injected with Eevee 5.0 and added IOS 18 Support",
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/Spotify_8.9.74_Eevee_5.0_%40thisismanpreets_apptesters.org.ipa",
+          "size": 81359984,
+          "minOSVersion": "17.4"
+        }
+      ]
+    }
+  ],
+  "featuredApps": [
+    "com.rileytestut.Delta",
+    "com.rileytestut.Clip"
+  ],
+  "news": [
+    {
+      "title": "Spotify MOD added",
+      "identifier": "spotify-now-available",
+      "caption": "Injected with Eevee 5.1 and added IOS 18 Support",
+      "tintColor": "EC008C",
+      "imageURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+      "appID": "com.spotify.client",
+      "date": "2024-09-30",
+      "notify": false
+    }
+  ]
+}
