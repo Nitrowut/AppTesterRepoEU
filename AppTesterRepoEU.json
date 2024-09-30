@@ -65,7 +65,16 @@
           "size": 80512448,
           "minOSVersion": "17.4"
         }
-      ]
+      ],
+      "localizedDescription": "Spotify MOD (Oldest)",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+      "tintColor": "8A28F7",
+      "category": "games",
+      "beta": true,
+      "patreon": {
+        "pledge": 3,
+        "benefit": "1186336"
+      }
     },
     {
       "name": "Spotify",
@@ -84,7 +93,16 @@
           "size": 85008841,
           "minOSVersion": "17.4"
         }
-      ]
+      ],
+      "localizedDescription": "Spotify MOD (Latest)",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+      "tintColor": "8A28F7",
+      "category": "games",
+      "beta": true,
+      "patreon": {
+        "pledge": 3,
+        "benefit": "1186336"
+      }
     },
     {
       "name": "Spotify",
@@ -102,7 +120,16 @@
           "size": 81359984,
           "minOSVersion": "17.4"
         }
-      ]
+      ],
+      "localizedDescription": "Spotify MOD",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+      "tintColor": "8A28F7",
+      "category": "games",
+      "beta": true,
+      "patreon": {
+        "pledge": 3,
+        "benefit": "1186336"
+      }
     }
   ],
   "featuredApps": [
