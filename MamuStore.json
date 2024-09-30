@@ -1,15 +1,16 @@
 {
-   "name":"MamuStore",
-   "iconURL":"https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
-   "website":"https://github.com/Nitrowut/AppTesterRepoEU",
-   "identifier":"com.epicgames.altstore",
-   "tintColor":"#818181",
-   "featuredApps":[
-      "com.epicgames.FortniteGame",
-      "uk.co.mediatonic.fallguys",
-      "com.psyonixllc.mesa"
-   ],
-   "apps":[
+  "name": "MamuStore",
+  "subtitle": "Nitrowut - IOS 18+ Modded IPA APPS",
+  "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+  "website": "https://github.com/Nitrowut/AppTesterRepoEU",
+  "identifier": "com.epicgames.altstore",
+  "tintColor": "#818181",
+  "featuredApps": [
+    "com.epicgames.FortniteGame",
+    "uk.co.mediatonic.fallguys",
+    "com.psyonixllc.mesa"
+  ],
+  "apps": [
     {
       "name": "Spotify",
       "bundleIdentifier": "com.epicgames.FortniteGame",
@@ -33,8 +34,8 @@
       ],
       "marketplaceID": "6483539426"
     }
-   ],
-   "news":[
+  ],
+  "news": [
     {
       "title": "Spotify MOD added",
       "identifier": "spotify-now-available",
@@ -45,5 +46,5 @@
       "date": "2024-09-30",
       "notify": false
     }
-   ]
+  ]
 }
