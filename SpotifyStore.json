@@ -1,0 +1,40 @@
+{
+   "name":"MamuStore",
+   "iconURL":"https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+   "website":"https://github.com/Nitrowut/AppTesterRepoEU",
+   "identifier":"com.epicgames.altstore",
+   "tintColor":"#818181",
+   "featuredApps":[
+      "com.epicgames.FortniteGame",
+      "uk.co.mediatonic.fallguys",
+      "com.psyonixllc.mesa"
+   ],
+   "apps":[
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games Sweden AB",
+      "subtitle": "Spotify MOD (Latest)",
+      "localizedDescription": "• Injected with Eevee 5.1 and added IOS 18 Support",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+      "tintColor": "#818181",
+      "category": "games",
+      "beta": false,
+      "versions": [
+        {
+          "version": "8.9.76",
+          "date": "2024-09-24T00:00:00.0000000Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-09-2024/Spotify_8.9.76_Eevee_5.1_%40thisismanpreets_apptesters.org.ipa",
+          "size": 499689472,
+          "minOSVersion": "17.6",
+          "buildVersion": "36348036"
+        }
+      ],
+      "marketplaceID": "6483539426"
+    }
+   ],
+   "news":[
+      
+   ]
+}
