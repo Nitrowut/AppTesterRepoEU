@@ -1,13 +1,12 @@
 {
   "name": "MamuStore",
-  "subtitle": "A home for apps that push the boundaries of iOS.",
-  "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/how-to-use-altstore/sources",
-  "website": "https://altstore.io",
-  "patreonURL": "https://www.patreon.com/rileyshane",
+  "subtitle": "Modded IPA Files",
+  "description": "This is source for Modded IPA Files",
+  "website": "https://github.com/Nitrowut/AppTesterRepoEU",
   "apps": [
     {
       "name": "MamuStore",
-      "subtitle": "Sideloading for everyone.",
+      "subtitle": "Modded APIs for everyone",
       "bundleIdentifier": "io.altstore.AltStore",
       "marketplaceID": "6478868316",
       "developerName": "Riley & Shane",
@@ -23,7 +22,7 @@
         }
       ],
       "localizedDescription": "AltStore PAL is an alternative app marketplace for everyone (in Europe).\n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as Clip, a real clipboard manager that can run in the background.",
-      "iconURL": "https://cdn.altstore.io/file/altstore/images/altstore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
       "tintColor": "018084",
       "category": "utilities",
       "screenshots": [
