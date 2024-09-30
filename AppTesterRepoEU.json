@@ -1,12 +1,12 @@
 {
-  "name": "AltStore",
+  "name": "MamuStore",
   "subtitle": "A home for apps that push the boundaries of iOS.",
   "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/how-to-use-altstore/sources",
   "website": "https://altstore.io",
   "patreonURL": "https://www.patreon.com/rileyshane",
   "apps": [
     {
-      "name": "AltStore",
+      "name": "MamuStore",
       "subtitle": "Sideloading for everyone.",
       "bundleIdentifier": "io.altstore.AltStore",
       "marketplaceID": "6478868316",
