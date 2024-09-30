@@ -88,7 +88,7 @@
       "caption": "Injected with Eevee 5.1 and added IOS 18 Support",
       "tintColor": "EC008C",
       "imageURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
-      "appID": "com.spotify.client",
+      "appID": "com.muslim.client",
       "date": "2024-09-30",
       "notify": false
     }
