@@ -51,34 +51,6 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "1048524688",
-      "developerName": "Riley Testut",
-      "subtitle": "Spotify MOD (Oldest)",
-      "versions": [
-        {
-          "version": "8.9.70",
-          "marketingVersion": "8.9.70",
-          "buildVersion": "200",
-          "date": "2024-09-16T12:00:00-05:00",
-          "localizedDescription": "• Injected with Eevee 4.9 and added IOS 18 Support",
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-09-2024/Spotify_8.9.70_Eevee_4.9_%40thisismanpreets_apptesters.org.ipa",
-          "size": 80512448,
-          "minOSVersion": "17.4"
-        }
-      ],
-      "localizedDescription": "Spotify MOD (Oldest)",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
-      "tintColor": "8A28F7",
-      "category": "games",
-      "beta": true,
-      "patreon": {
-        "pledge": 3,
-        "benefit": "1186336"
-      }
-    },
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
       "marketplaceID": "6448998370",
       "developerName": "Riley Testut",
       "subtitle": "Spotify MOD (Latest)",
@@ -95,33 +67,6 @@
         }
       ],
       "localizedDescription": "Spotify MOD (Latest)",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
-      "tintColor": "8A28F7",
-      "category": "games",
-      "beta": true,
-      "patreon": {
-        "pledge": 3,
-        "benefit": "1186336"
-      }
-    },
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "6478879891",
-      "subtitle": "Spotify MOD",
-      "developerName": "Riley Testut",
-      "versions": [
-        {
-          "version": "8.9.74",
-          "buildVersion": "205",
-          "date": "2024-04-12T17:00:00-00:00",
-          "localizedDescription": "• Injected with Eevee 5.0 and added IOS 18 Support",
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/Spotify_8.9.74_Eevee_5.0_%40thisismanpreets_apptesters.org.ipa",
-          "size": 81359984,
-          "minOSVersion": "17.4"
-        }
-      ],
-      "localizedDescription": "Spotify MOD",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
       "tintColor": "8A28F7",
       "category": "games",
