@@ -14,5 +14,5 @@ AltStore - Modded Apps to EU users
 
 🔧 Download & Installation
 1. Install AltStore PAL
-2. Add AppTesterRepoEU.json Raw link to AltSotre repo tab
+2. Add MamuStore.json Raw link to AltSotre repo tab
 3. Install Spotify and added Apps
