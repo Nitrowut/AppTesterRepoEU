@@ -16,3 +16,7 @@ AltStore - Modded Apps to EU users
 1. Install AltStore PAL
 2. Add MamuStore.json Raw link to AltSotre repo tab
 3. Install Spotify and added Apps
+
+
+**Raw Link for AltStore PAL:**
+https://raw.githubusercontent.com/Nitrowut/MamuStore-Repo/refs/heads/main/MamuStore.json
